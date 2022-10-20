@@ -1,0 +1,10 @@
+pypiwin32
+sqlite3
+pycryptodome
+os
+json
+base64
+win32crypt
+Crypto
+shutil
+datetime
