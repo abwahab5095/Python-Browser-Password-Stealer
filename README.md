@@ -13,7 +13,7 @@ Python-Browser-Password-Stealer is a Python based Script that can fetch these in
 clone the repo and execute these command for installation
 
 ```
-got clone https://github.com/abwahab5095/Python-Browser-Password-Stealer.git
+git clone https://github.com/abwahab5095/Python-Browser-Password-Stealer.git
 cd Python-Browser-Password-Stealer
 pip install -r requirements.txt
 
