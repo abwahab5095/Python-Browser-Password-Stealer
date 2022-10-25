@@ -4,7 +4,7 @@
 Python-Browser-Password-Stealer is a Python based Script that can fetch these informations
 
 - ✨ fetch Credit Cards Data ✨
-- ✨ fetch Decrypt Encrypted Passwords Data ✨
+- ✨ fetch  Encrypted Passwords And Decrypt Them ✨
 - ✨ fetch Bookmarks Data ✨
 
 # Installation 
